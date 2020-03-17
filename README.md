@@ -8,6 +8,22 @@
 ---
 # Plano de Aulas
 
+### Parte 1: Visão Geral
+
+### Parte 2: Análise Léxica
+
+### Parte 3: Análise Sintática
+
+### Parte 4: Análise Semântica
+
+### Parte 5: Geração de Código Intermediário
+
+### Parte 6: Otimização de Código
+
+### Parte 7: Geração de Código
+
+### Parte 8: Tópicos complementares
+
 
 # Avaliação
 
@@ -15,10 +31,15 @@
 --- 
 
 # Links
+
+### Cursos online 
+
++ [Compilers - Universidade de Stanford[(https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/course/) (disponível até 26/3/2020)
+
    
 ### Sobre markdown
 
-- [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
++ [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 + [The Ultimate Guide to Markdown](https://blog.ghost.org/markdown/)
 + [Markdown and including multiple files](https://stackoverflow.com/questions/4779582/markdown-and-including-multiple-files)
 
