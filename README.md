@@ -34,9 +34,8 @@
 
 ### Cursos online 
 
-+ [Compilers - Universidade de Stanford[(https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/course/) (disponível até 26/3/2020)
++ [Compilers - Universidade de Stanford](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=Compilers) 
 
-   
 ### Sobre markdown
 
 + [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
