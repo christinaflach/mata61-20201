@@ -13,94 +13,93 @@ Parte prática: Implementar um compilador aplicando as técnicas de análise e s
 
 ## Plano de Aulas
 
-### Parte 1: Visão Geral
+### Visão Geral
 
 - Visao geral da disciplina e conceitos básicos
 - Introdução a Traducao de Programas
 - Papel do Compilador/Interpretador, Conceitos Basicos
 - Estrutura e fases de um compilador
 
-### Parte 2: Análise Léxica
+### Análise Léxica
 
-Conceitos de analise lexica
-Exemplos envolvendo analise lexica
-Linguagens regulares
-Exemplos de especificacao lexica
-Especificacao de lexemas/tokens em linguagem de programacao
-Automato Finito
-Mapeando expressoes regulares em automatos finitos
-Implementacao de automatos finitos
-Exemplos de codigos de implementacao
+- Conceitos de analise lexica
+- Exemplos envolvendo analise lexica
+- Linguagens regulares
+- Exemplos de especificacao lexica
+- Especificacao de lexemas/tokens em linguagem de programacao
+- Automato Finito
+- Mapeando expressoes regulares em automatos finitos
+- Implementacao de automatos finitos
+- Exemplos de codigos de implementacao
 
-### Parte 3: Análise Sintática
+### Análise Sintática
 
-Análise sintática: Introdução
-Conceitos gerais
-Gramaticas livre de contexto
-Derivacoes
-Ambiguidade
-Representacao abstrata/compacta da arvore sintatica
-Analise Sintatica: Top-Down
-Algoritmo recursivo descendente
-Limitacao do parser recursivo descendente
-Problema da recursao a esquerda
-Parser preditivo LL(1)
-Conjunto First
-Conjunto Follow
-Construcao tabela do parser LL(1)
-Analise Sintatica: Bottom-Up
-Estrategia de Parser Shift-reduce
-Conceito de Handle
-Reconhecimento de um Handle
-Reconhecendo Prefixos Viaveis
-Parser SLR ("Simple LR")
-Exemplo de funcionamento do parser SLR
-Melhorias para o parser SLR
-LR(1), LALR(1) parsers
-Geradores de analisadores sintaticos
+- Conceitos gerais
+- Gramaticas livre de contexto
+- Derivacoes
+- Ambiguidade
+- Representacao abstrata/compacta da arvore sintatica
+- Analise Sintatica: Top-Down
+- Algoritmo recursivo descendente
+- Limitacao do parser recursivo descendente
+- Problema da recursao a esquerda
+- Parser preditivo LL(1)
+- Conjunto First
+- Conjunto Follow
+- Construcao tabela do parser LL(1)
+- Analise Sintatica: Bottom-Up
+- Estrategia de Parser Shift-reduce
+- Conceito de Handle
+- Reconhecimento de um Handle
+- Reconhecimento de Prefixos Viaveis
+- Parser SLR ("Simple LR")
+- Exemplo de funcionamento do parser SLR
+- Melhorias para o parser SLR
+- LR(1), LALR(1) parsers
+- Geradores de analisadores sintaticos
 
-### Parte 4: Análise Semântica
+### Análise Semântica
 
-Escopo e Tabela de simbolos
-Checagem de tipos
-Ambientes de tipos
-Implementacao de checagem de tipos
+- Escopo e Tabela de simbolos
+- Checagem de tipos
+- Ambientes de tipos
+- Implementacao de checagem de tipos
 
 
-### Parte 5: Ambientes de Execução
+### Ambientes de Execução
 
-Ambiente de execução
-Ativacoes
-Registros de Ativacao
-Variaveis Globais e Heap
+- Ambiente de execução
+- Ativacoes
+- Registros de Ativacao
+- Variaveis Globais e Heap
 
-### Parte 6: Geração de Código
+### Geração de Código
 
-Geração de código
-Maquinas de Pilha
-Linguagem MIPS assembly
-Implementação usando Máquina de Pilha
-Modelos de Geração de Código
+- Geração de código
+- Maquinas de Pilha
+- Linguagem MIPS assembly
+- Implementação usando Máquina de Pilha
+- Modelos de Geração de Código
 
-### Parte 7: Otimização de Código
-Otimização de Código: Local
-Codigo Intermediario
-Tecnicas de otimizacao local
-Otimizacao "peephole"
-Otimização de Código: Global
-Analise Data flow
-Propagação global de constantes
-Analise Liveness
-Alocação de Registradores
-Hierarquia de memoria
-Definição do Problema
-Método de Coloração em grafos
-Técnica de Spilling
+### Otimização de Código: Local
+- Codigo Intermediario
+- Tecnicas de otimizacao local
+- Otimizacao "peephole"
 
-### Parte 8: Outros tópicos
-- Gerenciamento Automático de Memória
+### Otimização de Código: Global 
+- Analise Data flow
+- Propagação global de constantes
+- Analise Liveness
+
+### Alocação de Registradores
+ - Hierarquia de memoria
+ - Definição do Problema
+ - Método de Coloração em grafos
+ - Técnica de Spilling
+
+### Gerenciamento Automático de Memória
 - Definição do Problema
- - Técnica Mark and Sweep
+- Técnica Mark and Sweep
 - Técnica Stop and Copy
 - Técnica Reference Counting
 
