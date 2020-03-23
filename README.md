@@ -12,6 +12,9 @@
 
 ### Parte 2: Análise Léxica
 
+- Análise Léxica, expressões regulares e autômatos finitos
+   - Livro do Dragão: Seções 3.1, 3.3, 3.4, 3.6, 3.7, 3.8
+
 ### Parte 3: Análise Sintática
 
 ### Parte 4: Análise Semântica
@@ -23,7 +26,6 @@
 ### Parte 7: Geração de Código
 
 ### Parte 8: Tópicos complementares
-
 
 # Avaliação
 
