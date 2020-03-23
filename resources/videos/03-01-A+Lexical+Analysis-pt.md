@@ -1,4 +1,4 @@
-** Tradução para o português do texto das vídeo-aulas do curso de Compiladores da Universidade de Stanford. **
+**Tradução para o português do texto das vídeo-aulas do curso de Compiladores da Universidade de Stanford.**
 (Uso para fins acadêmicos do material do curso disponibilizado por Alex Aiken)
 
 Bem-vindo de volta.
