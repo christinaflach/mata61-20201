@@ -7,9 +7,9 @@
 
 ---
 ## Objetivos
-Parte teórica: Entender os conceitos fundamentais envolvidos na implementação de linguagens de programação;
 
-Parte prática: Implementar um compilador aplicando as técnicas de análise e síntese/geração de código.
+- Parte teórica: Entender os conceitos fundamentais envolvidos na implementação de linguagens de programação;
+- Parte prática: Implementar um compilador aplicando as técnicas de análise e síntese/geração de código.
 
 ## Plano de Aulas
 
@@ -104,7 +104,7 @@ Parte prática: Implementar um compilador aplicando as técnicas de análise e s
 - Técnica Reference Counting
 
 ## Projeto Prático
-Projetar e implementar um compilador (incluindo Analisador Léxico, Analisador Sintático/Semântico, e Gerador de Código) para uma linguagem simples procedimental. Detalhes do projeto aqui.
+Projetar e implementar um compilador (incluindo Analisador Léxico, Analisador Sintático,  Analisador Semântico e Gerador de Código) para uma linguagem simples procedimental. 
 
 ## Avaliação
 - 30% Primeira prova (individual)
@@ -126,21 +126,20 @@ Como regra geral, não serão avaliados trabalhos entregues fora do prazo. Qualq
 
 Livro do "Dragão": Aho, Lam, Sethi, and Ullman. Compiladores: princípios, técnicas e ferramentas. 2a edição, Addison-Wesley, 2008.
 
-- Analise Léxica e Automato Finito.
+- Analise Léxica e Automatos Finitos.
 Seções de Capítulos: 3.1, 3.3, 3.4, 3.6, 3.7, 3.8
 - Analise Sintática.
 Seções de Capítulos: 4.1-4.6, 4.8.1, 4.8.2
 - Analise Semântica e Tipos.
 Seções de Capítulos: 5.1-5.3 6.3, 6.5
-- Ambiente de Execução e Geração de Código
+- Ambiente de Execução e Geração de Código.
 Seções de Capítulos: 6.2, 7.1-7.4, 8.1-8.3, 8.6
-- Otimização de codigo
+- Otimização de codigo.
 Seções de Capítulos: 8.5, 8.7, 9.1-9.4
-- Alocação de registradores e Gerenciamento automático de memória
+- Alocação de registradores e Gerenciamento automático de memória.
 Seções de Capítulos: 8.8, e 7.5-7.7
 
 ## Links
-
 ### Cursos online 
 
 + [Compilers - Universidade de Stanford](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=Compilers) 
