@@ -20,7 +20,7 @@ Todas as palavras-chave são reservadas e devem ser escritas em letras minúscul
 2. São símbolos especiais da linguagem:
 
 ``` 
-+  -  *  /  <  <=  >  >=  ==  !=  =  ;  ,  (  )  [  ]  {  }  /*  */
++  -  *  /  <  <=  >  >=  ==  !=  =  ;  ,  (  )  [  ]  {  } 
 ```
 
 3. Os _tokens_ *ID* e *NUM* são definidos pelas expressões regulares abaixo:
@@ -36,15 +36,9 @@ Há distinção entre letras maiúsculas e minúsculas.
 
 4. Caracteres de espacejamento (_white space_) incluem  espaço em branco (' '), newlines ('\n'), e tabs ('\t). Esses caracteres são ignorados e servem para separar ID’s, NUM’s e palavras-chaves.
 
-5. Comentários são definidos entre /* e */, 
-como na linguagem C. Comentários podem ser usados nos mesmos pontos do programa em que caracteres de espacejamento aparecem 
-(isto é, comentários não podem ser colocados dentro de _tokens_) e podem incluir mais de uma linha.
-Comentários não podem ser aninhados. Comentários de uma linha, iniciados por "//" como na linguagem C,
-não são válidos.
+5. Comentários de uma linha como na linguagem C. 
+Comentários podem ser usados nos mesmos pontos do programa em que caracteres de espacejamento aparecem.
+Comentários não podem ser aninhados. Comentários de uma linha são iniciados por "//" como na linguagem C.
 
-
-### Sintaxe
-
-Em breve.
 
 
